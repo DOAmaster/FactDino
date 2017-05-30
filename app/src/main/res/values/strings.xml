@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fact Raptor</string>
+    <string name="fact_raptor_saids">fact raptor saids:</string>
+    <string name="mainfact">(hmmm)</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-7988619408892977/8849179598</string>
+    <string name="adUnitId">Home</string>
+</resources>
